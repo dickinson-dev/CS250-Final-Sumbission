@@ -1,41 +1,90 @@
 # CS 250: Software Development Lifecycle
 
-## Portfolio Artifact
-**Sprint Review and Retrospective**
+**Portfolio Artifact:** Sprint Review and Retrospective  
+**Student:** Matt Dickinson  
+**School:** Southern New Hampshire University
+
+---
+
+## Overview
+
+This repository contains my final project artifact for **CS 250: Software Development Lifecycle**.  
+The included **Sprint Review and Retrospective** highlights how Scrum and Agile practices supported team collaboration, iterative development, communication, and continuous improvement during the **SNHU Travel** project.
+
+This artifact reflects my understanding of:
+
+- Scrum team roles and responsibilities
+- Agile software development life cycle practices
+- User stories and iterative delivery
+- Communication within a development team
+- Organizational tools such as the product backlog and Scrum events
+- Evaluating Agile as a development approach for a real project scenario
+
+---
 
 ## Artifact Files
+
 - [Sprint Review and Retrospective (PDF)](./Sprint_Review_and_Retrospective_Matt_Dickinson.pdf)
 
-This repository contains my final project artifact for **CS 250: Software Development Lifecycle** at **Southern New Hampshire University**. The included Sprint Review and Retrospective reflects my understanding of Scrum, Agile practices, team collaboration, iterative development, and continuous improvement throughout the software development life cycle.
+---
 
-## Course Information
-- **Course:** CS 250: Software Development Lifecycle  
-- **School:** Southern New Hampshire University  
-- **Student:** Matt Dickinson  
+## Artifact Summary
 
-## Artifact Overview
-The Sprint Review and Retrospective serves as a summary and evaluation of the Agile development work completed during the course. This artifact highlights how Scrum roles contributed to project success, how user stories supported development, how the team responded to changing priorities, and how Agile tools and events helped keep the project organized and moving forward.
+The **Sprint Review and Retrospective** serves as the final project artifact for this course.  
+It brings together the Agile and Scrum concepts applied throughout CS 250 and evaluates how those practices supported the success of the SNHU Travel project.
+
+The paper addresses:
+
+- how each Scrum team role contributed to success
+- how user stories helped guide development
+- how Agile supported the team when project priorities changed
+- how communication improved collaboration
+- how Scrum events and organizational tools supported execution
+- whether Scrum-Agile was the best fit for the project
+
+---
 
 ## Reflection
 
 ### How do I interpret user needs and implement them into a program? How does creating user stories help with this?
-I interpret user needs by focusing first on the problem the user is trying to solve before thinking about the technical solution. Instead of starting with code, I start by asking what the user needs to accomplish, why that outcome matters, and what would make the program useful from their point of view. That helps me translate ideas into practical features and requirements that actually support the user.
 
-Creating user stories helps with this because user stories keep development centered on value. They frame requirements from the user’s perspective, which makes it easier to understand the purpose of a feature instead of only its technical function. User stories also help break large ideas into manageable pieces, support prioritization, and make it easier to verify whether the finished work actually meets the user’s needs.
+I interpret user needs by focusing on the problem the user is trying to solve before thinking about the technical solution. Instead of starting with code, I first consider what the user needs to accomplish, why that outcome matters, and what would make the program useful from their perspective. That helps translate ideas into practical features and requirements that support real user value.
+
+Creating user stories helps because user stories keep development centered on the user. They frame requirements around value and purpose instead of only technical tasks. This makes features easier to understand, prioritize, and test. User stories also help break larger goals into manageable pieces, which makes development more organized and reduces the risk of building something that works technically but does not actually meet the user’s needs.
 
 ### How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-I approach developing programs by breaking larger goals into smaller, manageable tasks and working through them in stages. I prefer an iterative process where I can build, review, test, and improve as I go rather than trying to design everything perfectly up front. This makes development more flexible and helps reduce major rework because problems can be found earlier.
 
-In my future development work, I hope to continue using Agile practices such as backlog refinement, sprint planning, short development cycles, regular team communication, iterative testing, and retrospectives. I especially want to keep using user stories because they connect technical work to user value, and retrospectives because they encourage continuous improvement. I also think regular check-ins and feedback loops are important because they help teams stay aligned and respond faster when priorities change.
+I approach developing programs by breaking larger goals into smaller, manageable tasks and working through them in stages. I prefer an iterative process where I can build, review, test, and improve as I go rather than trying to plan everything perfectly at the beginning. This makes development more flexible and helps reduce rework because issues can be identified earlier.
+
+In future development work, I hope to continue using Agile practices such as backlog refinement, sprint planning, short development cycles, regular team communication, iterative testing, and retrospectives. I especially value user stories because they connect technical work to user needs, and retrospectives because they promote continuous improvement. I also want to continue using short feedback loops so I can adjust quickly when priorities change or new information comes up.
 
 ### What does it mean to be a good team member in software development?
-Being a good team member in software development means being dependable, communicative, and collaborative. Good software is rarely the result of one person working alone, so it is important to contribute consistently, share updates clearly, ask questions when something is unclear, and raise blockers before they become bigger problems. A strong team member supports the group’s progress, not just individual tasks.
 
-It also means respecting the role each person plays in the development process. Product Owners, Scrum Masters, developers, and testers all contribute differently, and successful teamwork depends on those roles staying aligned. To me, being a good team member means doing my work responsibly while also helping create an environment where the team can communicate honestly, solve problems together, and deliver better results.
+Being a good team member in software development means being dependable, communicative, and collaborative. Strong technical ability matters, but it is not enough by itself. A good team member shares progress clearly, raises blockers early, asks questions when requirements are unclear, and supports the overall goals of the team instead of focusing only on individual tasks.
+
+It also means respecting the role each person plays in the development process. Product Owners, Scrum Masters, developers, and testers all contribute in different ways, and effective teamwork depends on those roles staying aligned. To me, being a good team member means doing my work responsibly while also helping create an environment where the team can communicate honestly, solve problems together, and deliver stronger results.
+
+---
+
+## Skills Demonstrated
+
+Through this project, I strengthened my ability to:
+
+- analyze and prioritize user needs
+- apply Agile and Scrum concepts in a project setting
+- evaluate software development approaches
+- communicate across team roles
+- reflect on process improvements and team effectiveness
+
+---
 
 ## Repository Contents
-- `Sprint_Review_and_Retrospective_Matt_Dickinson.docx`
-- `README.md`
 
-## Summary
-This artifact demonstrates my understanding of Agile and Scrum as practical approaches to software development. Through this course, I strengthened my ability to connect user needs to development work, collaborate within a Scrum team, and reflect on how process improvements can lead to better project outcomes.
+- `README.md`
+- `Sprint_Review_and_Retrospective_Matt_Dickinson.pdf`
+
+---
+
+## Closing Summary
+
+This artifact represents my work in **CS 250** and demonstrates my understanding of Agile development as a practical, team-based approach to building software. It also shows how reflection and retrospectives can improve both project outcomes and future development practices.
