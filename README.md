@@ -5,7 +5,6 @@
 
 ## Artifact Files
 - [Sprint Review and Retrospective (PDF)](./Sprint_Review_and_Retrospective_Matt_Dickinson.pdf)
-- [Sprint Review and Retrospective (Word)](./Sprint_Review_and_Retrospective_Matt_Dickinson.docx)
 
 This repository contains my final project artifact for **CS 250: Software Development Lifecycle** at **Southern New Hampshire University**. The included Sprint Review and Retrospective reflects my understanding of Scrum, Agile practices, team collaboration, iterative development, and continuous improvement throughout the software development life cycle.
 
